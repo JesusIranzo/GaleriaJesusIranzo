@@ -1,0 +1,24 @@
+KeyWords:
+
+- Index:TecnoIranzo, tecno, tecnologia, computadoras, electrodomesticos, telefonos, equipos, equipos electronicos
+
+-Computadoras:TecnoIranzo Computadoras, tecno, tecnologia, computadoras, equipos, equipos electronicos, laptops, computadoras de escritorio,piezas 
+
+-Moviles:TecnoIranzo, tecno, tecnologia, telefonos, equipos, equipos electronicos, celulares, moviles
+
+-Contactos:TecnoIranzo Contactos, redes, contactos, numeros, comunicacion, contactar
+
+-Servicios:TecnoIranzo Servicios, Servicios, atencion al cliente, cliente, que hacemos
+
+
+Descriptions:
+
+-Index:TecnoIranzo la nueva tienda online con las mejores marcas para celulares y computadoras, aqui podras encontrar tu nuevo equipo a un buen precio y con la mejor atencion
+
+-Computadoras:TecnoIranzo la nueva tienda online con las mejores marcas para computadoras, tambien con servicio de reparacion de dispositivos
+
+-Moviles:TecnoIranzo la nueva tienda online con las mejores marcas para celulares, aqui encontrara el mejor precio para su nuevo celular, incluimos linea telefonica si es requerida
+
+-Contactos:TecnoIranzo la nueva tienda online con las mejores marcas tecnologicas, aqui encontrara los contactos para el servicio al cliente, 24/7 la atencion
+
+-Servicios:TecnoIranzo la nueva tienda online con las mejores marcas, ofrecemos servicio tecnico, tambien de delivery para sus compras, al igual que tenemos atencion al cliente en cualquier duda o problema
